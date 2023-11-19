@@ -1,11 +1,11 @@
 # Express-Note-Taker
-UCF Coding Bootcamp Week 3 Challange 2. 
+UCF Coding Bootcamp Week 6 Challange 2. 
 
 
-The purpose of this challenge was to learn how to familiarize, impliment, and utilize server side API's. I called the openWeather 5 day forcast API and used it to create a display that would show a weather forecast for the next 5 days.  
+The purpose of this challenge was to learn how to familiarize, impliment, and utilize Express. I built off the starter code to allow functionality to post and update notes to a db.json file that retains the information.  
 
 
-<a href="https://cpicha20.github.io/Weather-Forecaster/" target="_blank">Visit the site by clicking here</a> 🚀
+<a href="https://note-taker-cpicha-b21616d188ec.herokuapp.com" target="_blank">Visit the site by clicking here</a> 🚀
 
 
 ## Tech Stack
@@ -15,4 +15,4 @@ The purpose of this challenge was to learn how to familiarize, impliment, and ut
 
 ## Preview 
 
-![Preview](/assets/images/Screenshot%202023-10-10%20195008.png)
+![Preview](/assets/Screenshot%202023-10-10%20195008.png)
